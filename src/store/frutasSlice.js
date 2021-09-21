@@ -15,7 +15,7 @@ export const slice = createSlice({
     resetFruits:(state) => {
       return{
         ...state,
-        frutas:['']
+        frutas:[]
       }
     }
   },
