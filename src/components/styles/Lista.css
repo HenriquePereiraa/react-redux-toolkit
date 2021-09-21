@@ -1,0 +1,15 @@
+.list{
+    margin: 20px auto;
+    width: 300px;
+}
+
+.list li{
+    margin: 10px 0;
+    padding:5px 0;
+    width: 100%;
+    background-color: #08acad;
+    border-radius: 5px;
+    color:#fff;
+    font-size: 17px;
+    font-weight: 700;
+}
